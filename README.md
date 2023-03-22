@@ -1,16 +1,5 @@
-# generator_qr
+QR Generator made using Dart with Flutter Framework
+![Screenshot_20230322-200501](https://user-images.githubusercontent.com/90466465/226914189-4fc264a8-0c7a-41f9-8c60-4734d8da5d49.png)
+![Screenshot_20230322-200446](https://user-images.githubusercontent.com/90466465/226914207-3eef3166-145a-457d-a031-d1e5cb28eda5.png)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+46-45?
